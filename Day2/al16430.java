@@ -7,6 +7,6 @@ public class al16430 {
         Scanner in = new Scanner(System.in);
         int A = in.nextInt();
         int B = in.nextInt();
-        System.out.println(B - A + " " + B);
+        System.out.println(B - A + " " + B); // B - A는 분자, B는 분모
     }
 }
